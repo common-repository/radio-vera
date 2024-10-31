@@ -1,0 +1,91 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Радио Вера v.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-09-10 15:03+0400\n"
+"PO-Revision-Date: 2014-09-10 15:05+0300\n"
+"Last-Translator: Ivan Volodin <ivan.volodin@gmail.com>\n"
+"Language-Team: prihod.ru <support@prihod.ru>\n"
+"Language: RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: radio-Vera.php:25
+msgid "Radio \"VERA\""
+msgstr "Радио \"ВЕРА\""
+
+#: radio-Vera.php:26 radio-Vera.php:259
+msgid "This widget displays radio from"
+msgstr "Этот виджет играет радио \"ВЕРА\""
+
+#: radio-Vera.php:114
+msgid "Now Playing:"
+msgstr "Сейчас в эфире:"
+
+#: radio-Vera.php:227
+msgid "Title"
+msgstr "Заголовок"
+
+#: radio-Vera.php:230
+msgid "Description"
+msgstr "Описание"
+
+#: radio-Vera.php:233
+msgid "Show logo"
+msgstr "Показать логотип"
+
+#: radio-Vera.php:235 radio-Vera.php:248
+msgid "Yes"
+msgstr "Да"
+
+#: radio-Vera.php:236 radio-Vera.php:249
+msgid "No"
+msgstr "Нет"
+
+#: radio-Vera.php:239
+msgid "Sound quality (bitrate)"
+msgstr "Качество звука (bitrate)"
+
+#: radio-Vera.php:246
+msgid "Show playlist"
+msgstr "Показать плейлист"
+
+#: radio-Vera.php:252
+msgid "Show player"
+msgstr "Показать радио"
+
+#: radio-Vera.php:254
+msgid "On site"
+msgstr "На сайте"
+
+#: radio-Vera.php:255
+msgid "On the site is continuously"
+msgstr "Автозапуск при переходе на другие страницы"
+
+#: radio-Vera.php:256
+msgid "In a new window"
+msgstr "В новом окне"
+
+#~ msgid "Made periodic requests in the background to the site radiostation."
+#~ msgstr ""
+#~ "Производятся периодические запросы в фоновом режиме к сайту радиостанции."
+
+#~ msgid ""
+#~ "<a href=\"http://radiovera.ru\" target=\"_blank\">Radio \"VERA\"</a> - is "
+#~ "a new radio station that tells about the eternal truths of the Orthodox "
+#~ "Faith."
+#~ msgstr ""
+#~ "<a href=\"http://radiovera.ru\" target=\"_blank\">Радио «ВЕРА»</a> – это "
+#~ "новая радиостанция, которая рассказывает о вечных истинах Православной "
+#~ "веры."
+
+#~ msgid "Radio from http://radiovera.ru"
+#~ msgstr "Радио http://radiovera.ru"
